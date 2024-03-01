@@ -12,9 +12,3 @@
 * Github: [@manyue-zhang](https://github.com/manyue-zhang)
 * LinkedIn: [@in\/manyue-zhang-5366b6236](https://linkedin.com/in/in\/manyue-zhang-5366b6236)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
